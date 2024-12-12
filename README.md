@@ -1,2 +1,2 @@
 # Cerebras
-Project is inspired by the Cerebras fellowship
+Project is inspired by the Cerebras interface
