@@ -6,10 +6,11 @@ Project is inspired by the Cerebras interface. LearnLens – Focused Insights fr
 LearnLens is application that allows users to upload PDF documents, interactively query the content, and create personalized study questions to enhance understanding. It also includes a summarization tool to simplify complex materials, making them more accessible to a wide range of audiences, especially for difficult content like academic papers or technical articles.
 
 ## Getting Started
-Please refer to cerebras interface documentation on how to set up the project. Documenation can be found in this link: https://inference-docs.cerebras.ai/introduction 
+Please refer to cerebras interface documentation on how to set up the project. 
+Documenation can be found in this link: https://inference-docs.cerebras.ai/introduction 
 
 
-For the html setup, please refer to this website: https://html5up.net/ 
+For the html setup, please refer to this website: https://html5up.net/  
 
 ## Acknowledgements
 ![download](https://github.com/user-attachments/assets/2a2f1aef-0d7b-41a1-9e62-470cea7303e4)
