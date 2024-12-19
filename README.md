@@ -7,7 +7,10 @@ LearnLens is application that allows users to upload PDF documents, interactivel
 
 ## Getting Started
 Please refer to cerebras interface documentation on how to set up the project. 
+
 Documenation can be found in this link: https://inference-docs.cerebras.ai/introduction 
+
+You will need to set up secrets for APIs, for more information please visit: https://docs.replit.com/replit-workspace/workspace-features/secrets 
 
 
 For the html setup, please refer to this website: https://html5up.net/  
